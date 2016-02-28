@@ -1,0 +1,31 @@
+_repo: After-Long-Years-and-Other-Stories_8111
+contributor:
+  translators:
+  - agent_name: Miller, Sophie Antoinette
+    alias: Miller, Sophia Antoinette
+    birthdate: 1865
+    gutenberg_agent_id: '2645'
+    url: http://www.gutenberg.org/2009/agents/2645
+  - agent_name: Dunne, Agnes Mary
+    alias: Dunne, Agnes M.
+    birthdate: 1857
+    deathdate: 1914
+    gutenberg_agent_id: '4601'
+    url: http://www.gutenberg.org/2009/agents/4601
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, German -- Translations into English'
+- !lcc 'PZ'
+tableOfContents: After long years -- The captive -- The artist's masterpiece -- The
+  vineyard on the hillside -- The damaged picture -- Memories awakened -- The inheritance
+  -- How it happened -- From royal palace to lowly hut -- The ugly trinket.
+title: After Long Years and Other Stories
+url: http://www.gutenberg.org/ebooks/8111
