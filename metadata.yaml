@@ -1,4 +1,5 @@
 _repo: After-Long-Years-and-Other-Stories_8111
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: Miller, Sophie Antoinette
@@ -12,7 +13,12 @@ contributor:
     deathdate: 1914
     gutenberg_agent_id: '4601'
     url: http://www.gutenberg.org/2009/agents/4601
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8111#After-Long-Years-and-Other-Stories
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
